@@ -108,7 +108,7 @@ google.com is a well known, publicly available domain with rich WHOIS and DNS da
 | # | Screenshot | Description |
 |---|---|---|
 | 1 | ![folder-created](screenshots/folder-created.png) | Project folder created |
-| 2 | ![libraries-installed](screenshots/libraries-installed.png) | Libraries installed |
+| 2 | ![libraries-installing](screenshots/libraries-installed.png) | Libraries installed |
 | 3 | ![nano-editor-with-code](screenshots/nano-editor-with-code.png) | Nano editor with code visible |
 | 4 | ![whois-output](screenshots/whois-output.png) | WHOIS output |
 | 5 | ![dns-and-ip-output](screenshots/dns-and-ip-output.png) | DNS records and IP lookup output |
@@ -119,7 +119,7 @@ google.com is a well known, publicly available domain with rich WHOIS and DNS da
 ## Improvement Ideas
 
 - **Add subdomain enumeration** - Extend the script to discover subdomains associated with the target domain using a wordlist
-- **Integrate threat intelligence feeds** - Cross reference the domain or IP against public threat intelligence sources like VirusTotal or AbuseIPDB
+- **Integrate threat intelligence feeds** - Cross reference the domain or IP against public threat intelligence sources
 - **Export results to a report** - Write all findings to a timestamped text or JSON file for documentation purposes
 - **Add SSL certificate analysis** - Retrieve and inspect the SSL certificate for the domain to check issuer, expiry and validity
 
@@ -130,4 +130,3 @@ google.com is a well known, publicly available domain with rich WHOIS and DNS da
 - All data retrieved by this tool is publicly available information
 - This tool was tested against google.com - a publicly accessible domain used for demonstration purposes only
 - This project is for educational purposes to understand OSINT techniques used in security investigations
-- All screenshots have been reviewed to remove personal identifying information
