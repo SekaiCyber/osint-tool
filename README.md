@@ -108,7 +108,7 @@ google.com is a well known, publicly available domain with rich WHOIS and DNS da
 | # | Screenshot | Description |
 |---|---|---|
 | 1 | ![folder-created](screenshots/folder-created.png) | Project folder created |
-| 2 | ![libraries-installing](screenshots/libraries-installed.png) | Libraries installed |
+| 2 | ![libraries-installing](screenshots/libraries-installing.png) | Libraries installed |
 | 3 | ![nano-editor-with-code](screenshots/nano-editor-with-code.png) | Nano editor with code visible |
 | 4 | ![whois-output](screenshots/whois-output.png) | WHOIS output |
 | 5 | ![dns-and-ip-output](screenshots/dns-and-ip-output.png) | DNS records and IP lookup output |
