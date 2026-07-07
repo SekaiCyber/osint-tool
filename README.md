@@ -107,12 +107,12 @@ google.com is a well known, publicly available domain with rich WHOIS and DNS da
 
 | # | Screenshot | Description |
 |---|---|---|
-| 1 | *(paste image)* | Project folder created |
-| 2 | *(paste image)* | Libraries installed |
-| 3 | *(paste image)* | Nano editor with code visible |
-| 4 | *(paste image)* | WHOIS output |
-| 5 | *(paste image)* | DNS records and IP lookup output |
-| 6 | *(paste image)* | File listing showing osint.py |
+| 1 | ![folder-created](screenshots/folder-created.png) | Project folder created |
+| 2 | ![libraries-installed](screenshots/libraries-installed.png) | Libraries installed |
+| 3 | ![nano-editor-with-code](screenshots/nano-editor-with-code.png) | Nano editor with code visible |
+| 4 | ![whois-output](screenshots/whois-output.png) | WHOIS output |
+| 5 | ![dns-and-ip-output](screenshots/dns-and-ip-output.png) | DNS records and IP lookup output |
+| 6 | ![file-listings](screenshots/file-listings.png) | File listing showing osint.py |
 
 ---
 
